@@ -4,3 +4,6 @@ $('nav').onePageNav();
 $('#menu-icon').click(function(){
 	$('nav').slideToggle();
 });
+
+$(".wow").addClass("fadeInLeftBig");
+
